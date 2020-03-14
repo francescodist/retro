@@ -24,7 +24,7 @@ body {
 }
 
 #nav {
-  padding: 30px;
+  padding: 16px;
 }
 
 #nav a {
